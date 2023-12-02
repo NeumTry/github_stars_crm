@@ -21,3 +21,6 @@ Clone/fork the repo or just copy the code.
 Run `python stars_to_csv.py`
 
 Done!
+
+# Improvements
+- Run apis in parallel/distribute the tasks (good problem to have if you have a lot of stars :))
