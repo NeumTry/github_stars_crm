@@ -10,7 +10,7 @@ Pretty simple, nothing fancy. Just using the github apis to get the list of user
 
 **User's API**: "https://api.github.com/users/<user>"
 
-You don't need a github api key but might get throttle dpretty fast. You can get one by going to `Github Profile -> Settings -> Developer Settings -> Tokens and generating one.`
+**You don't need a github api key** but might get throttle pretty fast. You can get one by going to `Github Profile -> Settings -> Developer Settings -> Tokens and generating one.`
 
 # Requirements
 Python
