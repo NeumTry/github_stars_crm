@@ -5,8 +5,10 @@ For those building an audience, a startup, or wanting feedback of the product yo
 # Code
 
 Pretty simple, nothing fancy. Just using the github apis to get the list of users who starred a repo and then getting each user's information from github, all public data.
+Stargazers api: https://docs.github.com/en/rest/activity/starring?apiVersion=2022-11-28#list-stargazers
+User's api: "https://api.github.com/users/<user>"
 
-You don't need a github api key but might get throttle dpretty fast. You can get one by going to `Github Profile->Settings -> Developer Settings -> Tokens and generating one.`
+You don't need a github api key but might get throttle dpretty fast. You can get one by going to `Github Profile -> Settings -> Developer Settings -> Tokens and generating one.`
 
 # Requirements
 Python
