@@ -17,6 +17,7 @@ Python
 
 # How to run
 Clone/fork the repo or just copy the code.
-run `python stars_to_csv.py`
+
+Run `python stars_to_csv.py`
 
 Done!
