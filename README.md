@@ -1,6 +1,6 @@
 # Github stars CRM tracker
 
-For those building an audience, a startup, or wanting feedback of the product you just built, you can use `github_stars_crm` to keep track of the people that have given you a star in your repo to talk to them and learn about your users.
+For those building an audience, a startup, or wanting feedback of the product you just built, you can use `github_stars_crm` to keep track of the people who have given you a star in your repo to talk and learn about them.
 
 # Code
 
